@@ -1,0 +1,18 @@
+#include<iostream>
+
+void main()
+{
+	int n;
+
+	cout<<"Enter the Number of assets\n";
+	cin>>n;
+
+	for(int a=1;a<=n;a++)
+	{
+	for(int i=1;i<=n;i++)
+	{
+	cout<<"*";
+	}
+	cout<<endl;
+	}
+}
