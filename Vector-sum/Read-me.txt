@@ -1,0 +1,11 @@
+#wiki
+
+In, This Repository 'Vector-sum' We Discuss about how to write the vector sum of six digits in a c++ program.
+
+Note : If You Know better code as compare to this code. Don't Forget to Give Your Suggestion By Commmiting on the file. 
+
+Code Includes :
+
+- Variables
+
+- Function's
